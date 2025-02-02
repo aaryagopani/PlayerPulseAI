@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 For any questions or collaboration opportunities, reach out at:
-📧 [Email](akshatvaja1303@gmail.com) | 💬 LinkedIn: [Akshat Vaja](https://www.linkedin.com/in/akshat-vaja/)
+📧 [Email](aaryagopani@gmail.com) | 💬 LinkedIn: [Aarya Gopani](https://www.linkedin.com/in/aarya-gopani-99444a259/)
 
 ## Note
 
